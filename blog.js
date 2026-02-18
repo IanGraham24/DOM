@@ -1,4 +1,7 @@
-
+/*
+This assignment was completed by me. AI tools were used only for formatting
+and syntax assistance. All logic and implementation decisions are my own.
+*/
 
 
 
